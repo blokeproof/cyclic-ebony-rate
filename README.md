@@ -1,2 +1,1 @@
-# cyclic-ebony-rate
-Free Code Camp : Quality Assurance Projects - Sudoku Solver
+# [Sudoku Solver](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
